@@ -1,0 +1,42 @@
+/*body{
+	background: rgb(186,133,9);
+
+}*/
+body{
+	/*background: white;
+	
+	font-family: serif;*/
+	font-family: leto;
+text-align: center;
+}
+/*h2:hover {
+	color: black;
+}*/
+.title{
+	color: red;
+}
+.subtitle{
+	color: blue;
+}
+#envirnmnet{
+	color: yellow;
+}
+li:nth-child(1){
+	color: steelblue;
+}
+/*img[src=""]{
+	border: black;
+}*/
+h2[class~=article-subtitle]{
+	background: green;
+}
+#service-image{
+	height: 400px;
+	width: 70%;
+	
+
+}
+#about-us-image{
+	height: 500px;
+
+}
